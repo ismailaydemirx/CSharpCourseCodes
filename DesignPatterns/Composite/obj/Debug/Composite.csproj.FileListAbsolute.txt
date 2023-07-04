@@ -1,0 +1,8 @@
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\obj\Debug\Composite.exe
+C:\Users\BAYDEMIR\source\repos\DesignPatterns\Composite\obj\Debug\Composite.pdb

@@ -1,0 +1,11 @@
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\bin\Debug\Exceptions.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\bin\Debug\Exceptions.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\bin\Debug\Exceptions.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\obj\Debug\Exceptions.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Exceptions\obj\Debug\Exceptions.pdb

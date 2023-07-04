@@ -1,0 +1,16 @@
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\RecapProject1.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\RecapProject1.exe
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\RecapProject1.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.exe
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\EntityFramework.dll
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\EntityFramework.xml
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\Engin Demiroğ BTK Akademi C#\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete

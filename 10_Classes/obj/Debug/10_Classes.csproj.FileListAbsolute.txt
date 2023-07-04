@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\bin\Debug\10_Classes.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\bin\Debug\10_Classes.exe
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\bin\Debug\10_Classes.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\obj\Debug\10_Classes.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\obj\Debug\10_Classes.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\obj\Debug\10_Classes.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\obj\Debug\10_Classes.exe
+C:\project\Engin Demiroğ BTK Akademi C#\10_Classes\obj\Debug\10_Classes.pdb

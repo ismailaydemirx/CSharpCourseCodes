@@ -1,0 +1,63 @@
+﻿using Northwind.DataAccess.Abstract;
+using Northwind.Entities.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Northwind.DataAccess.Concrete.EntityFramework
+{
+    public class EfEntityRepositoryBase<TEntity, TContext> : IEntityRepository<TEntity>
+        where TEntity:class,IEntity,new()
+        where TContext:DbContext,new()
+    {
+        public void Add(TEntity entity)
+        {
+            using (TContext context = new TContext())
+            {
+                var addedEntity = context.Entry(entity); // benim veritabanımda bir nesne var ona abone ol
+                addedEntity.State = EntityState.Added; // fakat burada sen bunu bulamayacaksın o yüzden burada bunu yeni eklenecek olarak ekledik.
+                context.SaveChanges();
+            }
+        }
+
+        public void Delete(TEntity entity)
+        {
+            using (TContext context = new TContext())
+            {
+                var deletedEntity = context.Entry(entity); // benim veritabanımda bir nesne var ona abone ol
+                deletedEntity.State = EntityState.Deleted; // Buna abone ol ve bunu silinecek olarak işaretle.
+                context.SaveChanges();
+            }
+        }
+
+        public List<TEntity> GetAll(Expression<Func<TEntity, bool>> filter = null)
+        {
+            using (TContext context = new TContext())
+            {
+                return filter==null?context.Set<TEntity>().ToList():context.Set<TEntity>().Where(filter).ToList();
+            }
+        }
+
+        public TEntity GetProduct(Expression<Func<TEntity, bool>> filter)
+        {
+            using (TContext context = new TContext())
+            {
+                return context.Set<TEntity>().SingleOrDefault(filter);
+            }
+        }
+
+        public void Update(TEntity entity)
+        {
+            using (TContext context = new TContext())
+            {
+                var updatedEntity = context.Entry(entity); // benim veritabanımda bir nesne var ona abone ol
+                updatedEntity.State = EntityState.Modified; // Update kodunu çalıştır.
+                context.SaveChanges();
+            }
+        }
+    }
+}

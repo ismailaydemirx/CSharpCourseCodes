@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\bin\Debug\Events.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\bin\Debug\Events.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\bin\Debug\Events.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\obj\Debug\Events.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Events\obj\Debug\Events.pdb

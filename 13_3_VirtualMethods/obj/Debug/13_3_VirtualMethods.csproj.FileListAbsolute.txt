@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\bin\Debug\13_3_VirtualMethods.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\bin\Debug\13_3_VirtualMethods.exe
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\bin\Debug\13_3_VirtualMethods.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\obj\Debug\13_3_VirtualMethods.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\obj\Debug\13_3_VirtualMethods.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\obj\Debug\13_3_VirtualMethods.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\obj\Debug\13_3_VirtualMethods.exe
+C:\project\Engin Demiroğ BTK Akademi C#\13_3_VirtualMethods\obj\Debug\13_3_VirtualMethods.pdb

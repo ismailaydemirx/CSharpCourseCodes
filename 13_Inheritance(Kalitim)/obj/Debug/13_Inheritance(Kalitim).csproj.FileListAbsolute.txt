@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\bin\Debug\13_Inheritance(Kalitim).exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\bin\Debug\13_Inheritance(Kalitim).exe
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\bin\Debug\13_Inheritance(Kalitim).pdb
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\obj\Debug\13_Inheritance(Kalitim).csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\obj\Debug\13_Inheritance(Kalitim).csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\obj\Debug\13_Inheritance(Kalitim).csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\obj\Debug\13_Inheritance(Kalitim).exe
+C:\project\Engin Demiroğ BTK Akademi C#\13_Inheritance(Kalitim)\obj\Debug\13_Inheritance(Kalitim).pdb

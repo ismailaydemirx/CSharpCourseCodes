@@ -1,0 +1,11 @@
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\bin\Debug\11_RecapDemo1.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\bin\Debug\11_RecapDemo1.exe
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\bin\Debug\11_RecapDemo1.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\_11_RecapDemo1.Form1.resources
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\_11_RecapDemo1.Properties.Resources.resources
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.csproj.GenerateResource.cache
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.exe
+C:\project\Engin Demiroğ BTK Akademi C#\11_RecapDemo1\obj\Debug\11_RecapDemo1.pdb

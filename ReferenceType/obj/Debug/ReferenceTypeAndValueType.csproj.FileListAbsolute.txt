@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\bin\Debug\ReferenceType.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\bin\Debug\ReferenceType.exe
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\obj\Debug\ReferenceTypeAndValueType.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\obj\Debug\ReferenceTypeAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\obj\Debug\ReferenceTypeAndValueType.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\obj\Debug\ReferenceType.exe
+C:\project\Engin Demiroğ BTK Akademi C#\ReferenceType\obj\Debug\ReferenceType.pdb

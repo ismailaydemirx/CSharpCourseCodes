@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\bin\Debug\14_AbstractClasses.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\bin\Debug\14_AbstractClasses.exe
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\bin\Debug\14_AbstractClasses.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\obj\Debug\14_AbstractClasses.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\obj\Debug\14_AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\obj\Debug\14_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\obj\Debug\14_AbstractClasses.exe
+C:\project\Engin Demiroğ BTK Akademi C#\14_AbstractClasses\obj\Debug\14_AbstractClasses.pdb

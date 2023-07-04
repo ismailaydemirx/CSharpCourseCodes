@@ -1,0 +1,8 @@
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\bin\Debug\Reflection.exe.config
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\bin\Debug\Reflection.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\bin\Debug\Reflection.pdb
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\obj\Debug\Reflection.exe
+C:\project\Engin Demiroğ BTK Akademi C#\BTKEnginDemirogSolution\Reflection\obj\Debug\Reflection.pdb

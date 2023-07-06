@@ -12,8 +12,11 @@
 
 //}
 
-Console.WriteLine("Write a username");
-string userName = Console.ReadLine();
+//Console.WriteLine("Write a username");
+//string userName = Console.ReadLine();
 
-Console.WriteLine("Hello " + userName + " Welcome!");
+//Console.WriteLine("Hello " + userName + " Welcome!");
+
+float i = 5 / 10 / 2f; Console.Write(i);
+Console.ReadLine();
 

@@ -1,0 +1,8 @@
+C:\Users\BAYDEMIR\source\repos\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\BAYDEMIR\source\repos\Helpers\obj\Debug\Helpers.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAYDEMIR\source\repos\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\BAYDEMIR\source\repos\Helpers\bin\Debug\Helpers.exe.config
+C:\Users\BAYDEMIR\source\repos\Helpers\bin\Debug\Helpers.exe
+C:\Users\BAYDEMIR\source\repos\Helpers\bin\Debug\Helpers.pdb
+C:\Users\BAYDEMIR\source\repos\Helpers\obj\Debug\Helpers.exe
+C:\Users\BAYDEMIR\source\repos\Helpers\obj\Debug\Helpers.pdb
